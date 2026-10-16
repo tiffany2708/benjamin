@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.m4a
+*.mp4
+*.wav
+transcript.txt
+long_transcript.txt
+
+browser_profile/
+transcribe_backup.py
